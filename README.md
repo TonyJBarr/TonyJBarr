@@ -6,11 +6,10 @@ Experience? haha who needs that when you have google!
 
 I started learning coding in high school when I took a web page development class. After that, I went on to learn some C++, Python, and more HTML/CSS. Since then I've been exploring the world of programming.
 
-* 🌍  I'm based in The East Coast (US)
+* 🌍  Located in the US
 * 🖥️  See my portfolio at [my website.](http://tony.barr.contact)
 * ✉️  You can contact me at [tony@barr.contact](mailto:tony@barr.contact)
-* 🧠  I'm learning Go
-* ⚡  I'm actually Spiderman, frfr.
+* 🧠  I'm learning Go(Lang)
 
 ### Skills
 
